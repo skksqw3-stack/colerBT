@@ -9,7 +9,7 @@ source.exclude_dirs = bin,.buildozer,build,dist,__pycache__,assets
 
 version = 1.0.0
 
-requirements = python3,kivy==2.2.1,pyjnius,android
+requirements = python3,kivy==2.2.1,pyjnius
 
 orientation = portrait
 fullscreen = 0

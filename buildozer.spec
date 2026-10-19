@@ -24,6 +24,9 @@ android.archs = arm64-v8a
 android.accept_sdk_license = True
 android.allow_backup = True
 
+p4a.pip_index_url = https://mirror-pypi.runflare.com/simple/
+p4a.pip_trusted_host = mirror-pypi.runflare.com
+
 [buildozer]
 log_level = 2
-warn_on_root = 1
+warn_on_root = 0
